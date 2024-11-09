@@ -7,7 +7,7 @@
         :key="index"
         :icon_url="joke.icon_url"
         :value="joke.value"
-        class="col-md-4 col-sm-12 mb-4"
+        class="col-lg-4 col-md-6 col-sm-12 mb-4"
       />
     </div>
   </div>
